@@ -1,0 +1,13 @@
+jirafa
+tigre
+elefante
+leon
+oso
+pinguino
+delfin 
+hiena
+rinoceronte
+hipopotamo
+aguila
+serpiente
+cebra

@@ -1,0 +1,7 @@
+perro
+gato
+canario
+pez
+tortuga
+hamster
+caballo
